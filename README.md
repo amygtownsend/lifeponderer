@@ -1,2 +1,2 @@
-# lifeponderer
+# Life Ponderer
 A personal project
